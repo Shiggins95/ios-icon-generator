@@ -2,3 +2,4 @@ node_modules
 icon/*
 icon.png
 package-lock.json
+.idea
